@@ -1,0 +1,7 @@
+{
+  "name": "LunchGenius AI",
+  "description": "An intelligent lunch recommendation engine that analyzes your recent dietary history, current weather, and location to suggest the perfect meal using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
